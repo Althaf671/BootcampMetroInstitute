@@ -1,0 +1,47 @@
+
+# Dependencies
+/vendor/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Operating system
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+/logs/
+
+# Cache and temporary files
+/cache/
+/tmp/
+*.tmp
+
+# PHPUnit
+.phpunit.cache/
+.phpunit.result.cache
+
+# PHPStan
+.phpstan/
+phpstan.neon
+phpstan.neon.dist
+
+# PHP CS Fixer
+.php-cs-fixer.cache
+
+# Local configuration
+config.local.php
+
+# Build artifacts
+/build/
+/dist/

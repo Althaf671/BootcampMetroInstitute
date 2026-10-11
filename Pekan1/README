@@ -1,0 +1,8 @@
+# Tugas Bootcamp Metro Institue Week 1
+
+Nama: Muhammad Althaf Mulya 
+
+## Grading Mahasiswa
+- Minimal 5 data mahasiswa (nama + nim), bisa disimpan di associative array
+- Tentukan sendiri rentang grade, misalnya A,B,C,D pakai if-else, switch
+- Looping untuk menampilkan nama, nilai, dan grade tiap mahasiswa
